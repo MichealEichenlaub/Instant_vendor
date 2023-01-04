@@ -5,9 +5,9 @@ immediate refresh of vendor items (non iconic  / quest items)
 -1.0 release-
   -First version of this mod does not allow for user to control when the window refreshes. This will be added in a future release
   
--Known Bugs-
-  -After selling an item, the vendors goods list does not refresh automatically, user must cycle through the vendors sell menu once to 
-    repopulate with items
+-Please Note-
+  -This mod currently removes the ability to buy back sold items. this means that selling an iconic weapon to the shop will make it un recoverable. 
+    Keep this in mind when using this mod. 
     
 -Planned updates-
   -Update to allow user to determine interval of refresh
